@@ -4,6 +4,8 @@
 
 ![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/drinkme.png)
 
+![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/server.png)
+
 
 ## [LOCALHOST](http://localhost/)
 
