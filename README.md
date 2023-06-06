@@ -9,6 +9,9 @@ BASED [WEBAMP](https://webamp.org/), ON THE JAVASCRIPT LIBRARY WHICH BRINGS WINA
 ![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/server.png)
 
 
+![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/square.png)
+
+
 ## [LOCALHOST](http://localhost/)
 
 ## [WWW.TRASHROBOT.ORG](https://www.trashrobot.org)
