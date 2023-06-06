@@ -1,5 +1,10 @@
 # [TRASH MAGIC MIXTAPE](https://www.github.com/lafelabs/mixtape)
 
+![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/thumbdrive.png)
+
+![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/drinkme.png)
+
+
 ## [LOCALHOST](http://localhost/)
 
 ## [WWW.TRASHROBOT.ORG](https://www.trashrobot.org)
