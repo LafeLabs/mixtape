@@ -1,6 +1,12 @@
+![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/qrcode.png)
+
+![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/qrcode-page.png)
+
 # [TRASH MAGIC MIXTAPE](https://www.github.com/lafelabs/mixtape)
 
-BASED [WEBAMP](https://webamp.org/), ON THE JAVASCRIPT LIBRARY WHICH BRINGS WINAMP TO THE BROWSER!
+BASED ON [WEBAMP](https://webamp.org/), ON THE JAVASCRIPT LIBRARY WHICH BRINGS WINAMP TO THE BROWSER!
+
+![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/square.png)
 
 ![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/thumbdrive.png)
 
@@ -9,13 +15,14 @@ BASED [WEBAMP](https://webamp.org/), ON THE JAVASCRIPT LIBRARY WHICH BRINGS WINA
 ![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/server.png)
 
 
-![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/square.png)
-
-
 ## [LOCALHOST](http://localhost/)
 
 ## [WWW.TRASHROBOT.ORG](https://www.trashrobot.org)
 
+
+MUSICIANS!  SEND THE TRASH MAGIC OPERATOR YOUR SONGS TO CONTRIBUTE TO THE MIX TAPE TO SPREAD TRASH MAGIC AS WELL AS ALL THE LINKS TO YOUR SOCIALS AND PAYMENT LINKS SO THAT FANS CAN SUPPORT YOUR WORK!
+
+EMAIL YOUR STUFF TO OPERATOR@SLOANSLAKE.ART
 
 TRASH MAGIC MIX TAPE!  WE GET COMPUTERS FROM THE TRASH AND TURN THEM INTO SERVERS FOR LOCAL DISTRIBUTION OF MIXTAPES.  MIX TAPES ARE SELF-REPLICATING WEB PAGES WHICH CAN BE HOSTED ON ANY MACHINE: WINDOWS, MACOS, IOS, ANDROID, LINUX.  PRIVATE AND PUBLIC. ON THE INTERNET AND ON LOCAL WIFI NETWORKS.  EACH INSTANCE LINKS TO THE REST OF THE TRASH MAGIC NETWORK WHICH IS USED TO REPLICATE LINKS BACK TO THE MIX TAPES.  
 
