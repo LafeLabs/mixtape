@@ -2,13 +2,12 @@
 
 ![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/qrcode-page.png)
 
+![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/squares.png)
+
 # [TRASH MAGIC MIXTAPE](https://www.github.com/lafelabs/mixtape)
 
 BASED ON [WEBAMP](https://webamp.org/), ON THE JAVASCRIPT LIBRARY WHICH BRINGS WINAMP TO THE BROWSER!
 
-![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/square.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/thumbdrive.png)
 
 ![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/drinkme.png)
 
