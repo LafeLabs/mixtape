@@ -6,6 +6,9 @@
 
 # [TRASH MAGIC MIXTAPE](https://www.github.com/lafelabs/mixtape)
 
+![](https://raw.githubusercontent.com/LafeLabs/mixtape/main/trashmagic/winamp.png)
+
+
 BASED ON [WEBAMP](https://webamp.org/), ON THE JAVASCRIPT LIBRARY WHICH BRINGS WINAMP TO THE BROWSER!
 
 
