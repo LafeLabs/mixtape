@@ -32,6 +32,18 @@ foreach($dna->data as $value){
     
 }
 
+foreach($dna->skins as $value){
+    
+    copy($baseurl."skins/".$value,"skins/".$value);
+    
+}
+
+foreach($dna->songs as $value){
+    
+    copy($baseurl."mixtape/".$value,"mixtape/".$value);
+    
+}
+
 
 foreach($dna->php as $value){
  
@@ -40,12 +52,6 @@ foreach($dna->php as $value){
 
 }
     
-
-foreach($dna->iconsymbols as $value){
-    
-    copy($baseurl."iconsymbols/".$value,"iconsymbols/".$value);
-
-}
 
 
 ?>

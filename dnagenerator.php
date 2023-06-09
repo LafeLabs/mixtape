@@ -13,6 +13,8 @@ dna.txt is a json formatted file which points to all the files in this system, w
     $files = scandir(getcwd());
     $phpfiles = scandir(getcwd()."/php");
     $datafiles = scandir(getcwd()."/data");
+    $skinsfiles = scandir(getcwd()."/skins");
+    $songsfiles = scandir(getcwd()."/mixtape");
     
     $htmlfiles = [];
     foreach($files as $value){
@@ -36,10 +38,27 @@ dna.txt is a json formatted file which points to all the files in this system, w
         }
     }
 
+    $dna->skins = [];
+    foreach($skinsfiles as $value){
+        if($value[0] != "."){
+            if(substr($value,-4) == ".wsz"){
+                array_push($dna->skins,$value);
+            }
+        }
+    }
+
+
     $dna->php = [];
     foreach($phpfiles as $value){
         if($value[0] != "."){
             array_push($dna->php,$value);
+        }
+    }
+
+    $dna->songs = [];
+    foreach($songsfiles as $value){
+        if($value[0] != "."){
+            array_push($dna->songs,$value);
         }
     }
     

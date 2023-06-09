@@ -15,6 +15,21 @@
     "data": [
         "dna.txt"
     ],
+    "skins": [
+        "Blue_Jeans_v13.wsz",
+        "Carrie-Anne Moss.wsz",
+        "DOSAmp.wsz",
+        "Episode_II_Obi-Wan_Kenobi_3.wsz",
+        "Evil_Dead_1_Skin.wsz",
+        "Fallout_Pip-Girl_3000_Amber_v1.wsz",
+        "Forever.wsz",
+        "Hackers_Black_Glass_by_KittyCat.wsz",
+        "Matrix_by_sukhi.wsz",
+        "Nucleo-NLog-2G1.wsz",
+        "RollerCoaster_Amp_V11.wsz",
+        "base-2.91.wsz",
+        "gundamp.wsz"
+    ],
     "php": [
         "deletefile.txt",
         "dir.txt",
@@ -25,5 +40,8 @@
         "mkdir.txt",
         "replicator.txt",
         "text2php.txt"
+    ],
+    "songs": [
+        "elements_64kb.mp3"
     ]
 }
