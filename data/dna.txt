@@ -42,6 +42,7 @@
         "text2php.txt"
     ],
     "songs": [
-        "elements_64kb.mp3"
+        "elements_64kb.mp3",
+        "internationale.mp3"
     ]
 }
